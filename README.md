@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋 I'm Vuong
 
-<!--
-**vuonglq1993/vuonglq1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java / Full-stack Developer
 
-Here are some ideas to get you started:
+Currently studying Software Engineering at FPT Aptech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java
+Spring Boot
+React
+MySQL
+REST API
+
+## Contact
+Email: lqv1993@gmail.com
